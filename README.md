@@ -1,4 +1,4 @@
-# 🛍️ Site E-commerce de Vêtements (HTML / CSS / JavaScript)
+# 🛍️ Site E-commerce de Vêtements 
 
 Site e-commerce dynamique permettant de vendre des vêtements en ligne.  
 Le projet est entièrement développé en **HTML, CSS et JavaScript**, sans backend, et peut être déployé facilement sur Internet (GitHub Pages, Netlify, etc.).
@@ -18,5 +18,4 @@ Le projet est entièrement développé en **HTML, CSS et JavaScript**, sans back
 
 ---
 
-## 📂 Structure du projet
 
